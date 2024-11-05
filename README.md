@@ -43,6 +43,14 @@ Big Data/
 └── README.md          # Archivo README con la información del proyecto
 Nota: Puedes modificar y adaptar esta estructura según lo necesites.
 
+Tecnologías Utilizadas
+Python
+Pandas
+Apache Spark
+Hadoop
+Jupyter Notebooks
+Google Colab
+
 Instalación y Configuración
 Clona este repositorio en tu máquina local:
 
