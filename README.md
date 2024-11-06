@@ -5,15 +5,18 @@ Repositorio para gestionar proyectos y materiales de clases relacionados con Big
 ---
 
 ## Tabla de Contenidos
-
 - [Descripción General](#descripción-general)
 - [Características](#características)
 - [Estructura del Proyecto](#estructura-del-proyecto)
+- [Notebooks](#notebooks)
 - [Instalación y Configuración](#instalación-y-configuración)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 - [Contacto](#contacto)
+
+## Notebooks
+- **Big_Data_Algoritmo_de_Dijkstra.ipynb**: Implementación del algoritmo de Dijkstra para el análisis de rutas óptimas en un contexto de Big Data.
 
 ---
 
@@ -52,19 +55,6 @@ Nota: Puedes modificar y adaptar esta estructura según lo necesites.
 
 Repositorio para gestionar proyectos y materiales de clases relacionados con Big Data. Aquí encontrarás recursos, código y notas relacionadas con el análisis y procesamiento de grandes volúmenes de datos.
 
-## Tabla de Contenidos
-- [Descripción General](#descripción-general)
-- [Características](#características)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Notebooks](#notebooks)
-- [Instalación y Configuración](#instalación-y-configuración)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
-
-## Notebooks
-- **Big_Data_Algoritmo_de_Dijkstra.ipynb**: Implementación del algoritmo de Dijkstra para el análisis de rutas óptimas en un contexto de Big Data.
 
 Tecnologías Utilizadas
 Python
