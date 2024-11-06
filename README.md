@@ -3,6 +3,11 @@
 Repositorio para gestionar proyectos y materiales de clases relacionados con Big Data. Aquí encontrarás recursos, código y notas relacionadas con el análisis y procesamiento de grandes volúmenes de datos.
 
 ---
+## Visualización de la Ejecución del Algoritmo
+
+La siguiente imagen muestra una animación de cómo el algoritmo de Dijkstra explora las rutas óptimas:
+
+![Animación del Algoritmo de Dijkstra](https://github.com/sgevatschnaider/Big-Data/blob/b2785f0f50d241edb712634e0f36cb92486c921f/dijkstra_animation_continua.gif?raw=true)
 
 ## Tabla de Contenidos
 - [Descripción General](#descripción-general)
